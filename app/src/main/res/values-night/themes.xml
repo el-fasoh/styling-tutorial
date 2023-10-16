@@ -3,9 +3,9 @@
     <style name="Base.Theme.Styling" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <item name="colorPrimaryDark">#808080</item>
-        <item name="materialButtonStyle">@style/KokoButtonNight</item>
-        <item name="materialIconButtonStyle">@style/KokoLeftIconButton</item>
-        <item name="materialButtonOutlinedStyle">@style/Widget.Material3.Button.OutlinedButton.KokoOutlinedNight</item>
-        <item name="materialCardViewStyle">@style/Base.Widget.Material3.CardView.KOKOCardNight</item>
+        <item name="materialButtonStyle">@style/ExampleButtonNight</item>
+        <item name="materialIconButtonStyle">@style/ExampleLeftIconButton</item>
+        <item name="materialButtonOutlinedStyle">@style/Widget.Material3.Button.OutlinedButton.ExampleOutlinedNight</item>
+        <item name="materialCardViewStyle">@style/Base.Widget.Material3.CardView.ExampleCardNight</item>
     </style>
 </resources>
