@@ -4,6 +4,7 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="materialButtonStyle">@style/KokoButtonDay</item>
+        <item name="materialIconButtonStyle">@style/KokoLeftIconButton</item>
         <item name="materialButtonOutlinedStyle">@style/Widget.Material3.Button.OutlinedButton.KokoOutlinedDay</item>
 
     </style>
