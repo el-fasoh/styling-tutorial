@@ -6,6 +6,7 @@
         <item name="materialButtonStyle">@style/KokoButtonDay</item>
         <item name="materialIconButtonStyle">@style/KokoLeftIconButton</item>
         <item name="materialButtonOutlinedStyle">@style/Widget.Material3.Button.OutlinedButton.KokoOutlinedDay</item>
+        <item name="materialCardViewStyle">@style/Base.Widget.Material3.CardView.KOKOCardDay</item>
 
     </style>
 

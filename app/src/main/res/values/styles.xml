@@ -41,4 +41,14 @@
         <item name="cornerRadius">16dp</item>
         <item name="backgroundTint">#6A750606</item>
     </style>
+
+    <style name="Base.Widget.Material3.CardView.KOKOCardDay">
+        <item name="cornerRadius">60dp</item>
+        <item name="backgroundTint">#E4E4E4</item>
+    </style>
+
+    <style name="Base.Widget.Material3.CardView.KOKOCardNight">
+        <item name="cardCornerRadius">60dp</item>
+        <item name="cardBackgroundColor">#9F8F8F</item>
+    </style>
 </resources>

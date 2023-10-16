@@ -6,5 +6,6 @@
         <item name="materialButtonStyle">@style/KokoButtonNight</item>
         <item name="materialIconButtonStyle">@style/KokoLeftIconButton</item>
         <item name="materialButtonOutlinedStyle">@style/Widget.Material3.Button.OutlinedButton.KokoOutlinedNight</item>
+        <item name="materialCardViewStyle">@style/Base.Widget.Material3.CardView.KOKOCardNight</item>
     </style>
 </resources>
