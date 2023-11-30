@@ -3,6 +3,7 @@
     <style name="Base.Theme.Styling" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:textColor">#000</item>
         <item name="materialButtonStyle">@style/ExampleButtonDay</item>
         <item name="materialIconButtonStyle">@style/ExampleLeftIconButton</item>
         <item name="materialButtonOutlinedStyle">@style/Widget.Material3.Button.OutlinedButton.ExampleOutlinedDay</item>

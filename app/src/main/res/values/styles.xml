@@ -26,15 +26,15 @@
     <style name="ExampleButtonDay" parent="Widget.Material3.Button.ExampleButton">
         <item name="backgroundTint">#000000</item>
         <item name="android:textColor">#fff</item>
-
     </style>
 
     <style name="ExampleButtonNight" parent="Widget.Material3.Button.ExampleButton">
-        <item name="backgroundTint">#580404</item>
-        <item name="android:textColor">#fff</item>
+        <item name="backgroundTint">#fff</item>
+        <item name="android:textColor">#000</item>
     </style>
 
     <style name="ExampleLeftIconButton" parent="Widget.Material3.Button.IconButton">
+        <item name="android:minHeight">120dp</item>
         <item name="icon">@drawable/ic_launcher_foreground</item>
         <item name="iconPadding">8dp</item>
         <item name="iconGravity">textStart</item>
